@@ -1,0 +1,8 @@
+/node_modules
+
+media/*
+static/*
+.idea
+__pycache__
+*.pyc
+venv/
